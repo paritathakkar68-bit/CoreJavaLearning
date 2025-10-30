@@ -10,7 +10,7 @@ public class Calculator {
 
         //Variable names should follow camelCase (start lowercase, then capital words)
         int firstNumber = 10;   // Descriptive variable name instead of just 'a'
-        int secondNumber = 5;   // Descriptive name instead of 'b'
+        int secondNumber = 4;   // Descriptive name instead of 'b'
         char operator = '/';    // Operator to perform (+, -, *, /)
 
         //switch statement to perform operation based on operator

@@ -34,11 +34,11 @@ public class MethodExample
     {
         // Call static methods using class name
         MethodExample.printStaticGreeting();
-        MethodExample.printStaticSum(10, 5);
+        MethodExample.printStaticSum(10, 6);
 
         // Create object to call non-static methods
         MethodExample methodExampleInstance = new MethodExample();
         methodExampleInstance.printNonStaticGreeting();
-        methodExampleInstance.printNonStaticDifference(10, 5);
+        methodExampleInstance.printNonStaticDifference(10, 6);
     }
 }
