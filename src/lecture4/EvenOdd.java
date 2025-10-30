@@ -11,7 +11,7 @@ public class EvenOdd
     {
 
         //Variable names should be in camelCase (descriptive & lowercase first letter)
-        int inputNumber = 7; // Replaced 'num' with 'inputNumber' for clarity
+        int inputNumber = 9; // Replaced 'num' with 'inputNumber' for clarity
 
         //if condition checks whether the number is divisible by 2
         if (inputNumber % 2 == 0)

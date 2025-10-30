@@ -31,7 +31,11 @@ public class FibonacciWithFunction
     public static void main(String[] args)
     {
         int numberOfTerms = 10;  // Define how many terms to print
+
         System.out.println("Fibonacci:");
+=======
+        System.out.println("Fibonacci test_Fairy:");
+>>>>>>> 5d1c3bee92ed5a2e532d3f5916db87f9a4c62843
         printFibonacci(numberOfTerms);  // Call the function
     }
 }
